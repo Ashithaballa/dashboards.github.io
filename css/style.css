@@ -1,0 +1,64 @@
+.dashboard{
+ 	margin-left: -16px;
+ }
+ .nav-pills .nav-link{
+    color: #8497a8!important;
+    background-color: transparent!important;
+}
+.nav-pills a:hover{
+	background-color: #d0e0ed!important;
+	color:#000!important;
+	border-left: 6px solid #4070b2;
+	border-radius: 1px;
+	font-weight: bold;
+}
+.nav_tabs,.blk{
+	box-shadow: 0 0px 8px 0 rgb(0 0 0 / 16%), 0 0px 10px 0 rgb(0 0 0 / 12%) !important;
+}
+.tab-content{
+	padding-top: 10px;
+}
+.content{
+	background-color: #f4f5f7;
+}
+#v-pills-messages-tab{
+	margin-bottom: 306px;
+}
+img{
+	width: 75px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.choose{
+	text-align: center;
+	padding-top: 20px;
+	font-weight: 600;
+}
+.video_icon{
+	color:#7b8da3;
+} 
+.form-input {
+	width:250px;
+	padding:40px;
+	background:#fff;
+}
+.form-input input {
+	display:none;
+}
+.form-input label {
+	width:100%;
+	line-height:50px;
+	text-align:center;
+	font-size:14px;
+	font-weight:900;
+	cursor:pointer;
+}
+.form-input img {
+	width:100%;
+	display:none;
+	margin-top:10px;
+}
+.form-control{
+	margin-top: 56px;
+}
